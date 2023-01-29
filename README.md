@@ -4,3 +4,5 @@ this repository will currated all related mini project from android basics with 
   * [Bussiness card](https://github.com/SeptAlfauzan/bussiness-card)
 * Add a button to an app
   * [Dice roll app](https://github.com/SeptAlfauzan/dice-roll)
+* Click behaviour
+  * [Lemonade](https://github.com/SeptAlfauzan/lemonade)
