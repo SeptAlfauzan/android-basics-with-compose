@@ -6,3 +6,5 @@ this repository will currated all related mini project from android basics with 
   * [Dice roll app](https://github.com/SeptAlfauzan/dice-roll)
 * Click behaviour
   * [Lemonade](https://github.com/SeptAlfauzan/lemonade)
+* Interactive UI with state
+  * [Tip Calculator](https://github.com/SeptAlfauzan/calculate-tip)
