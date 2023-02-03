@@ -9,3 +9,5 @@ this repository will currated all related mini project from android basics with 
 * Interactive UI with state
   * [Tip Calculator](https://github.com/SeptAlfauzan/calculate-tip)
   * [Art Space](https://github.com/SeptAlfauzan/art-space)
+* Display list and use material design
+  * [Affirmation App](https://github.com/SeptAlfauzan/affirmation)
