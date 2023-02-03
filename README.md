@@ -11,3 +11,4 @@ this repository will currated all related mini project from android basics with 
   * [Art Space](https://github.com/SeptAlfauzan/art-space)
 * Display list and use material design
   * [Affirmation App](https://github.com/SeptAlfauzan/affirmation)
+  * [Grid Practice]()
