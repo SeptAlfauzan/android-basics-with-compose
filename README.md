@@ -12,3 +12,5 @@ this repository will currated all related mini project from android basics with 
 * Display list and use material design
   * [Affirmation App](https://github.com/SeptAlfauzan/affirmation)
   * [Grid Practice]()
+* Build beautiful apps
+  * [Superheroes](https://github.com/SeptAlfauzan/superheroes)
