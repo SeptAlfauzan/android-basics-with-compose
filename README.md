@@ -17,4 +17,4 @@ this repository will currated all related mini project from android basics with 
   * [30 Days Cooking](https://github.com/SeptAlfauzan/30-Days-Cooking)
 * Architecture Components
  * [Unscramble](https://github.com/SeptAlfauzan/unscramble)
- * [Desert Clicker]()
+ * [Desert Clicker](https://github.com/SeptAlfauzan/Dessert-Clicker)
