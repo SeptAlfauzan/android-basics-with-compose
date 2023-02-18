@@ -18,3 +18,5 @@ this repository will currated all related mini project from android basics with 
 * Architecture Components
   * [Unscramble](https://github.com/SeptAlfauzan/unscramble)
   * [Desert Clicker](https://github.com/SeptAlfauzan/Dessert-Clicker)
+* Navigation
+  * [Cupcake](https://github.com/SeptAlfauzan/cupcake)
