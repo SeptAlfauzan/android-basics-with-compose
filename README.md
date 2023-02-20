@@ -20,3 +20,4 @@ this repository will currated all related mini project from android basics with 
   * [Desert Clicker](https://github.com/SeptAlfauzan/Dessert-Clicker)
 * Navigation
   * [Cupcake](https://github.com/SeptAlfauzan/cupcake)
+  * [Lunch Tray](https://github.com/SeptAlfauzan/LunchTray)
